@@ -33,6 +33,7 @@ jobs:
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
           cat > release-notes.md <<'NOTES'
@@ -53,7 +54,7 @@ jobs:
 
           if gh release view v1.0.21 >/dev/null 2>&1; then
             gh release upload v1.0.21 AI_Creations_Now_Azure_Signing_Tool_v1.0.21_x64.exe --clobber
-            gh release edit v1.0.21 --title "Azure Signing Tool 1.0.21" --notes-file release-notes.md
+            gh release edit v1.0.21 --title "Azure Signing Tool 1.0.21" --notes-file release-notes.md --latest
           else
             gh release create v1.0.21 AI_Creations_Now_Azure_Signing_Tool_v1.0.21_x64.exe \
               --title "Azure Signing Tool 1.0.21" \
