@@ -2,11 +2,6 @@ name: Publish verified Azure Signing Tool release
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/publish-release.yml
-      - RELEASE.md
 
 permissions:
   contents: write
@@ -41,20 +36,18 @@ jobs:
 
           Free portable Windows x64 GUI for customers who already use Microsoft Azure Artifact Signing.
 
-          ## Integrity
-
           ```text
           File: AI_Creations_Now_Azure_Signing_Tool_v1.0.21_x64.exe
           Size: 162,974,672 bytes
           SHA-256: F34A2F9AE1D9589E83B865FEF12BD11085E591BA4626D6BF6325A7FA23372499
           ```
 
-          Download only from this release or the official AI Creations Now host. A new or low-reputation download may trigger Microsoft SmartScreen or browser reputation warnings; verify the SHA-256 before execution.
+          Verify the SHA-256 and Windows Authenticode signature before execution.
           NOTES
 
           if gh release view v1.0.21 >/dev/null 2>&1; then
             gh release upload v1.0.21 AI_Creations_Now_Azure_Signing_Tool_v1.0.21_x64.exe --clobber
-            gh release edit v1.0.21 --title "Azure Signing Tool 1.0.21" --notes-file release-notes.md --latest
+            gh release edit v1.0.21 --title "Azure Signing Tool 1.0.21" --notes-file release-notes.md
           else
             gh release create v1.0.21 AI_Creations_Now_Azure_Signing_Tool_v1.0.21_x64.exe \
               --title "Azure Signing Tool 1.0.21" \

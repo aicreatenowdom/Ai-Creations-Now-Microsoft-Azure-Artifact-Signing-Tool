@@ -1,41 +1,31 @@
-# Privacy and Microsoft Account Security Summary
+# Privacy and Local Data Summary
 
-The complete privacy, installation, and account-security agreement is displayed inside the application before setup begins.
+## Before setup begins
 
-## Information handled locally
-
-The application may process locally:
-
-- selected file path and metadata;
-- before/after SHA-256 values;
-- unsigned backup location;
-- Windows Authenticode status;
-- certificate and timestamp information;
-- local activity logs; and
-- the generated PDF verification report.
-
-The application does not upload the selected executable or its contents to AI Creations Now.
+The application presents a local Privacy, Installation & Microsoft Account Security Agreement before system inspection, prerequisite installation, Microsoft sign-in, file selection, or signing begins.
 
 ## Microsoft authentication
 
-Microsoft provides the browser authentication and MFA screens. AI Creations Now does not receive or store the Microsoft password or MFA code.
+Microsoft handles password and MFA pages. AI Creations Now Azure Signing Tool does not ask for or store the Microsoft password or MFA code.
 
-Azure CLI may retain authorization material so the user can resume later. The application keeps its Azure CLI data in a program-owned location associated with the current Windows account. The visible **Sign out of this program** control removes the saved application session. **Use another account / directory** also clears the remembered tenant selection.
+The application may retain a protected Azure CLI authorization cache for the current Windows account so future launches can continue without repeating browser authentication. The user can remove it through the visible **Sign out of this program** control. A separate account/directory option removes both the authorization and remembered tenant information.
 
-Anyone able to operate the same Windows account may be able to use an active saved Azure session. Sign out on shared or untrusted computers.
+## Local files
+
+The application reads only the local executable explicitly selected by the user for that signing workflow. It creates a local unsigned backup, calculates hashes, performs signing through Microsoft, verifies the signed result, and generates a local PDF report.
+
+AI Creations Now does not receive the selected executable, its contents, the local backup, or the generated PDF report.
 
 ## Microsoft components
 
-When missing, the application may download, verify, install, repair, or update disclosed Microsoft components, including Azure CLI, .NET, Visual C++, signing tools, Artifact Signing Client Tools, and the Artifact Signing extension. Those components can remain installed after the portable application is closed or deleted.
+The application can detect, install, repair, or update required Microsoft components, including Azure CLI, .NET, Visual C++, Artifact Signing Client Tools, signing tools, and the Azure CLI Artifact Signing extension. These components can remain installed after the portable application is deleted.
 
 ## Network communication
 
-Network communication is required for:
+Internet communication is required for Microsoft package retrieval, Microsoft authentication, Azure resource discovery, Artifact Signing, and timestamping. The application does not require an AI Creations Now telemetry account.
 
-- Microsoft component downloads;
-- Microsoft account authentication and MFA;
-- Azure resource discovery;
-- Artifact Signing and timestamping; and
-- Microsoft service verification.
+## Shared computers
 
-The current product does not require an AI Creations Now telemetry account or advertising identifier.
+A saved authorization can be used by someone who can operate the same Windows account. Sign out before leaving a shared, public, temporary, or otherwise untrusted computer.
+
+The complete in-application agreement and current official website privacy information control where they provide more detail.

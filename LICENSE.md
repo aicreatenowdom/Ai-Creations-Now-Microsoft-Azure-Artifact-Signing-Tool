@@ -1,20 +1,11 @@
-# Proprietary Binary Use Notice
+# Azure Signing Tool Proprietary License and Rights Notice
 
 Copyright © 2026 AI Creations Now Software Development. All rights reserved.
 
-The compiled AI Creations Now Azure Signing Tool is provided at no charge for legitimate use by individuals and organizations authorized to sign the software they select through their own Microsoft Azure Artifact Signing resources.
+This public repository contains Azure Signing Tool documentation, screenshots, policies, integrity information, and the approved compiled executable release. It does not publish proprietary application source code, build packages, private infrastructure, Microsoft credentials, tokens, customer information, or signing secrets.
 
-Permission is granted to download and run the unmodified official binary for its intended purpose.
+Public access does not grant permission to repackage, resell, mirror, modify, reverse engineer, or redistribute the Azure Signing Tool; remove or alter copyright, branding, Authenticode, or integrity information; represent a modified file as official; or use AI Creations Now names and artwork to imply affiliation or endorsement, except where applicable law expressly permits otherwise.
 
-Without prior written authorization from AI Creations Now Software Development, users may not:
+The product is offered free of charge through official distribution channels, but it remains proprietary software and is not open source.
 
-- sell, sublicense, repackage, or commercially redistribute the binary;
-- represent the product as their own;
-- modify, patch, decompile, disassemble, or reverse engineer the product except where applicable law expressly permits;
-- remove company, copyright, security, or attribution notices;
-- use the product to sign software they are not authorized to publish; or
-- use the product for malicious, fraudulent, deceptive, or unlawful activity.
-
-No proprietary source-code license is granted. The repository contains public documentation and official release binaries only.
-
-The software is provided without a promise that Microsoft Azure, Artifact Signing, third-party services, or all future Windows releases will remain unchanged. Users remain responsible for their Microsoft account, Azure permissions, certificate-profile eligibility, selected files, release decisions, and compliance obligations.
+Third-party Microsoft software and services remain subject to Microsoft's terms. Repository materials are provided without a guarantee that they will satisfy every environment, compatibility requirement, security policy, or availability expectation.

@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Official product page
+  - name: Azure Signing Tool product page
     url: https://aicreatenow.com/azuretool.html
-    about: Product details, screenshots, download information, and current notices.
-  - name: Private security contact
-    url: mailto:info@aicreatenow.com
-    about: Report credentials, tokens, or exploitable security matters privately.
+    about: Review requirements, privacy, workflow, and the official download.
+  - name: Private product support
+    url: https://aicreatenow.com/faq.html
+    about: Use private support for account identifiers, sensitive logs, or customer-specific matters.
+  - name: Private security report
+    url: https://aicreatenow.com/
+    about: Do not publish security-sensitive information in a public issue.

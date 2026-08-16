@@ -1,16 +1,7 @@
-# Contributing
+# Contributing to the Azure Signing Tool Repository
 
-The AI Creations Now Azure Signing Tool is proprietary software. Application source code is not open for public contribution.
+This repository documents the proprietary AI Creations Now Azure Signing Tool. The application source code is not published, and public source-code contributions are not accepted.
 
-Useful public contributions include:
+Useful public contributions include documentation corrections, broken-link reports, reproducible non-sensitive product defects, Windows compatibility observations, and usability suggestions.
 
-- reproducible compatibility reports;
-- sanitized installation or authentication error details;
-- documentation corrections;
-- accessibility observations;
-- Windows-version compatibility results; and
-- responsibly disclosed security reports.
-
-Do not submit source-code replacements, proprietary files, credentials, access tokens, customer executables, or confidential data.
-
-Security-sensitive reports belong in private email to **info@aicreatenow.com**, not a public issue.
+Before opening an issue, confirm the current release, review the official product page, remove credentials and Azure identifiers, and include exact versions plus safe reproduction steps. Security-sensitive matters must follow [SECURITY.md](./SECURITY.md).
