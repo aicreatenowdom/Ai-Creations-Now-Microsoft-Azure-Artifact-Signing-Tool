@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Official product page
+    url: https://aicreatenow.com/azuretool.html
+    about: Product details, screenshots, download information, and current notices.
+  - name: Private security contact
+    url: mailto:info@aicreatenow.com
+    about: Report credentials, tokens, or exploitable security matters privately.
