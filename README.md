@@ -5,26 +5,113 @@
 <p align="center">
   <a href="https://aicreatenow.com/azuretool.html"><img alt="Official product page" src="https://img.shields.io/badge/Official-Product%20Page-0B64C0?style=for-the-badge"></a>
   <a href="https://github.com/aicreatenowdom/Ai-Creations-Now-Microsoft-Azure-Artifact-Signing-Tool/releases/latest"><img alt="Latest release" src="https://img.shields.io/badge/Download-v1.0.21-0078D4?style=for-the-badge&logo=windows11&logoColor=white"></a>
-  <a href="https://buy.stripe.com/6oUeVf77ZdRCfMEbka5kk04"><img alt="Optional donation" src="https://img.shields.io/badge/Optional%20Donation-$3%2B-635BFF?style=for-the-badeIõŸ€œ\›ö\IõŸ€–€€‹è]⁄]HèèÿOÇè‹ÇÇè[Y€èHòŸ[ù\àèÇà›õ€ôœêH€€\]HZX‹õ‹€Ÿù^ù\ôH\ùYòX›⁄Y€ö[ô»€‹öŸõ›»[à€ôH›ZYY⁄[ô›‹»’RKè‹›õ€ôœèúèÇàô\\ôH0≠»€€õôX›0≠»Ÿ[X›0≠»õ›X›0≠»⁄Y€à0≠»ô\öYûBè‹ÇÇãKKBÇà»»⁄]]Ÿ\¬ÇêRH‹ôX][€ú»õ›»^ù\ôH⁄Y€ö[ô»€€\»HúôYH‹ùXõH⁄[ô›‹»ç\Xÿ][€àõ‹à]ô[‹\ú»[ô‹ôÿ[ö^ò][€ú»][ôXYH]ôHHZX‹õ‹€Ÿù^ù\ôH\ùYòX›⁄Y€ö[ô»[ùö\õ€õY[ùÇÇí]›ôX[[[ô\»Hô\]]]ôH\ù»ŸàHY⁄][X]H⁄Y€ö[ô»€‹öŸõ›ŒÇÇãH⁄X⁄‹»›\‹ùYçXö]⁄[ô›‹»[ôHô\]Z\ôYZX‹õ‹€Ÿù€€\€ô[ù¬ãHô]\Ÿ\»ò[Y[ú›[Y€€\€ô[ù»[ôô\\ô\»Z\‹⁄[ô»ô\ô\]Z\⁄]\¬ãH‹[ú»ZX‹õ‹€Ÿù	‹»õ‹õX[úõ›‹Ÿ\à]][ùXÿ][€àõ›¬ãH\ÿ€›ô\ú»H›Xúÿ‹ö\[€úÀ\ùYòX›⁄Y€ö[ô»Xÿ€›[ùÀŸ\ùYöXÿ]HõŸö[\À[ô[ô⁄[ù]òZ[XõH»H€€õôX›YY[ù]BãH]»H\Ÿ\àŸ[X›Hÿÿ[⁄[ô›‹»^X›]XõBãH‹ôX]\»[ôô\öYöY\»[à[ú⁄Y€ôYôX€›ô\ûHòX⁄›\ôYõ‹ôH⁄Y€ö[ô¬ãH\Y\»ZX‹õ‹€Ÿù^ù\ôH\ùYòX›⁄Y€ö[ô»[ôHZX‹õ‹€Ÿù[Y\›[\ãHô\öYöY\»Hô\›[[ô»⁄[ô›‹»]][ùX€ŸH⁄Y€ò]\ôBãHÿ[›[]\»ôK\⁄Y€à[ô‹›\⁄Y€à“KLçMàò[Y\¬ãH‹ôX]\»H]Z[Yÿÿ[ôYK\YŸHàô\öYöXÿ][€àô\‹ùÇï\»\Xÿ][€àŸ\»
-äõõ›
-äà‹ôX]H[à^ù\ôH›Xúÿ‹ö\[€ã€€\]HZX‹õ‹€ŸùY[ù]Hò[Y][€ã\‹›YHHŸ\ùYöXÿ]K‹à\‹⁄Y€à^ù\ôHõ€\ÀàH›\›€Y\à]\›[ôXYHôH]]‹ö^ôY»\ŸHHŸ[X›Y\ùYòX›⁄Y€ö[ô»ô\€›\òŸ\ÀÇÇà»»›ZYY€‹öŸõ›¬Çè[Y€èHòŸ[ù\àèÇà[Y»‹òœHöŒãÀÿZX‹ôX][õ›Àò€€K⁄[XYŸ\Àÿ^ù\ô]€€\ö]òXﬁKöú»à[Hîö]òXﬁH[ô[ú›[][€àY‹ôY[Y[ùà⁄YHç	HèÇà[Y»‹òœHöŒãÀÿZX‹ôX][õ›Àò€€K⁄[XYŸ\Àÿ^ù\ô]€€\ôXY[ô\‹Àöú»à[Hîﬁ\›[HôXY[ô\‹»[ôô\ô\]Z\⁄]Hô\\ò][€àà⁄YHç	HèÇè‹ÇÇåKà
-äîô]öY]»Hö]òXﬁH[ô[ú›[][€àY‹ôY[Y[ùääàõ›[ô»\»⁄X⁄ŸY[ú›[Y]][ùXÿ]YŸ[X›Y‹à⁄Y€ôY[ù[Hÿÿ[Y‹ôY[Y[ù\»XÿŸ\YÇåãà
-äîô\\ôHH€€\]\ãääàH\Xÿ][€à⁄X⁄‹»⁄[ô›‹À^ù\ôH”KìëUö\›X[  ÀZX‹õ‹€Ÿù⁄Y€ö[ô»€€À\ùYòX›⁄Y€ö[ô»€Y[ù€€À[ôH^ù\ôH”H\ùYòX›⁄Y€ö[ô»^[ú⁄[€ãÇåÀà
-äê€€õôX›õ›Y⁄ZX‹õ‹€ŸùääàHö\ú›€€õôX›[€àX^H\ŸH€»úõ›‹Ÿ\à⁄X⁄‹⁄[ù¯†%€ôH»Y[ùYûHHXÿ€›[ùŸ\ôX›‹ûH[ô[õ›\àõ‹à[ò[ù\‹X⁄YöX»]][ùXÿ][€à‹àQêKÇçà
-äê⁄€‹ŸH^\›[ô»^ù\ôHô\€›\òŸ\ÀääàŸ[X›H›Xúÿ‹ö\[€ã\ùYòX›⁄Y€ö[ô»Xÿ€›[ùX›]ôHŸ\ùYöXÿ]HõŸö[K[ô[ô⁄[ùZX‹õ‹€Ÿùô\‹ù»õ‹àH€€õôX›YY[ù]KÇçKà
-äê⁄€‹ŸHH^X›]XõKääà\ŸHHõ‹õX[⁄[ô›‹»ö[HX⁄Ÿ\à[ôô]öY]»HòX⁄›\[ô\⁄\õ›X›[€à[ãÇçãà
-äî⁄Y€à[ôô\öYûKääàHX›]ö]HŸ»õ€›‹»òX⁄›\ô\öYöXÿ][€ã\ùYòX›⁄Y€ö[ôÀ[Y\›[\[ôÀ]][ùX€ŸHò[Y][€ã[ôô\‹ù‹ôX][€ãÇçÀà
-äíŸY\Hà]öY[òŸKääàHô\‹ùôX€‹ô»ö[H]Z[À\⁄\ÀXõ\⁄\à[ôõ‹õX][€ãŸ\ùYöXÿ]H]K[Y\›[\òX⁄›\ÿÿ][€ã[ôôX€›ô\ûH[ôõ‹õX][€ãÇÇè[Y€èHòŸ[ù\àèÇà[Y»‹òœHöŒãÀÿZX‹ôX][õ›Àò€€K⁄[XYŸ\Àÿ^ù\ô]€€\ô\€›\òŸ\Àöú»à[Hê^ù\ôHô\€›\òŸHŸ[X›[€àà⁄YHçåâHèÇè‹ÇÇà»»ZX‹õ‹€ŸùXÿ€›[ùŸX›\ö]BÇìZX‹õ‹€Ÿù[ô\»H\‹›€‹ô[ôQêHYŸ\ÀàH\Xÿ][€àô]ô\à\⁄‹»õ‹à‹à›‹ô\»HZX‹õ‹€Ÿù\‹›€‹ô‹àQêH€ŸKÇÇêûHYò][H\Xÿ][€àÿ[àŸY\]»ö]ò]H^ù\ôH”H]]‹ö^ò][€àõ‹àH›\úô[ù⁄[ô›‹»Xÿ€›[ù€»ù]\ôH][ò⁄\»õ‹õX[Hô]\õà\ôX›H»H⁄Y€ö[ôÀ\ô\€›\òŸHYŸKàH[ù\ôòXŸH[ò€Y\»ö\⁄XõH€€ùõ€»ŒÇÇãH
-äî⁄Y€à›]Ÿà\»õŸ‹ò[Jäà8†%ô[[›ô\»H\Xÿ][€ã[›€ôYÿX⁄Y]]‹ö^ò][€ÇãH
-äï\ŸH[õ›\àXÿ€›[ù»\ôX›‹ûJäà8†%ô[[›ô\»HÿX⁄Y]]‹ö^ò][€à[ôô[Y[Xô\ôY[ò[ù[ôõ‹õX][€ÇÇì€à⁄\ôYXõXÀ‹à[\‹ò\ûH€€\]\úÀ⁄Y€à›]ôYõ‹ôHX]ö[ôÀàHÿ]ôYŸ\‹⁄[€à\»H€€ùô[öY[òŸHôX]\ôKõ›H›Xú›]]Hõ‹àõ›X›[ô»H⁄[ô›‹»Xÿ€›[ùÇÇà»»ÿÿ[ö]òXﬁH[Ÿ[ÇãHHŸ[X›Y^X›]XõH\»õ›\ÿYY»RH‹ôX][€ú»õ›¬ãHH[ú⁄Y€ôYòX⁄›\\⁄\À⁄Y€ôYö[K[ôàô\‹ùô[XZ[à€àHÿÿ[€€\]\ÇãHH\Xÿ][€à€€ùZ[ú»õ»RH‹ôX][€ú»õ›»[[Y]ûH‹à[ò[]X‹»Xÿ€›[ùãHZX‹õ‹€ŸùôXŸZ]ô\»H]][ùXÿ][€à[ô⁄Y€ö[ôÀ\Ÿ\ùöXŸH€€[][öXÿ][€ú»ô\]Z\ôY»õ›öYH^ù\ôH\ùYòX›⁄Y€ö[ô¬ãHZX‹õ‹€Ÿùô\ô\]Z\⁄]HX⁄ÿYŸ\»ÿ[àô[XZ[à[ú›[YYù\àH‹ùXõH\Xÿ][€à\»ô[[›ôYÇîŸYH‘íUêP÷KõYJã‘íUêP÷KõY
-Hõ‹àHô\‹⁄]‹ûH›[[X\ûKàH[ãX\Xÿ][€àY‹ôY[Y[ù€€ùõ€»HX›X[ö\ú›\ù[à\ÿ€‹›\ôKÇÇà»»ﬁ\›[Hô\]Z\ô[Y[ù¬ÇãH⁄[ô›‹»L‹à⁄[ô›‹»LHç‹à⁄[ô›‹»Ÿ\ùô\àåMà‹à]\à⁄]\⁄›‹^\öY[òŸBãHÿÿ[YZ[ö\›ò]‹àXÿŸ\‹»õ‹àô\ô\]Z\⁄]Hô\\ò][€ÇãH[ù\õô]XÿŸ\‹¬ãH[Y⁄XõHZYZX‹õ‹€Ÿù^ù\ôH›Xúÿ‹ö\[€ÇãH^\›[ô»ZX‹õ‹€Ÿù^ù\ôH\ùYòX›⁄Y€ö[ô»Xÿ€›[ùãHX›]ôHŸ\ùYöXÿ]HõŸö[BãH\õZ\‹⁄[€à»⁄Y€à⁄]H⁄‹Ÿ[àŸ\ùYöXÿ]HõŸö[BÇà»»›€õÿY[ôô\öYöXÿ][€ÇÇääîô[X\ŸNääàKåååHääëö[NääàRW–‹ôX][€ú◊”õ›◊–^ù\ôW‘⁄Y€ö[ô◊’€€›åKåååWﬁçô^Xääî⁄^ôNääàMåãMÕçÃàû]\»ääî“KLçMéääÇÇò^ëåÕLëéPQLQMNQN–éçQëQåLêëLLQMNLPêMåçëêëçåÃçPM—êLåÃÕÃçNBòÇïHô[X\ŸH\»HZX‹õ‹€Ÿù\ùYòX›⁄Y€ö[ô»]][ùX€ŸK\⁄Y€ôY[ô[Y\›[\Y⁄[ô›‹»^X›]XõKà⁄[ô›‹»€X\ùÿ‹ôY[àô\]][€àX^Hò\ûKà[ÿ^\»€€\\ôHH“KLçMàò[YH[ô[ú‹X›H⁄Y€ò]\ôHôYõ‹ôHù[õö[ô»]ÇÇñ’ô\öYöXÿ][€à[ú›ùX›[€ú◊Jã’ëTíQñW—’”ì–QõY
-H0≠»‘ô[X\ŸHõ›\◊Jã‘ëSPT—W”ì’TÀõY
-H0≠»”]\›⁄]Xàô[X\ŸWJŒãÀŸ⁄]Xãò€€KÿZX‹ôX][õ›Ÿ€K–ZKP‹ôX][€úÀSõ›ÀSZX‹õ‹€ŸùP^ù\ôKP\ùYòX›T⁄Y€ö[ôÀU€€‹ô[X\Ÿ\À€]\›
-BÇà»»€›\òŸKX€ŸH€XﬁBÇï\»ô\‹⁄]‹ûHŸ\»õ›Xõ\⁄Hõ‹öY]\ûH\Xÿ][€à€›\òŸH€ŸKàHXõX»ô\‹⁄]‹ûH€€ùZ[ú»õŸX›ÿ›[Y[ù][€ãÿ‹ôY[ú⁄›Àô[X\ŸHõ›\Àö]òXﬁK‹ŸX›\ö]H[ôõ‹õX][€ã[ôHŸôöX⁄X[€€\[Yô[X\ŸH\‹Ÿ]€õKÇÇë⁄]Xà]]€X]Xÿ[Hô\Ÿ[ù»8†'€›\òŸH€Ÿx†'HíT’Tà[ö‹»õ‹à]ô\ûHô[X\ŸKà‹ŸH]]ÀYŸ[ô\ò]Y\ò⁄]ô\»€€ùZ[à€õH\»XõX»ÿ›[Y[ù][€àô\‹⁄]‹ûx†%õ›Hõ‹öY]\ûH^ù\ôH⁄Y€ö[ô»€€€›\òŸKÇÇà»»›\‹ùÇîŸYH‘’T‘ïõYJã‘’T‘ïõY
-KàŸX›\ö]K\Ÿ[ú⁄]]ôHX]\ú»]\›ôHô\‹ùYö]ò][H[ô\à‘—P’TíUKõYJã‘—P’TíUKõY
-KÇÇãKKBÇääêRH‹ôX][€ú»õ›»€Ÿùÿ\ôH]ô[‹Y[ù
-äàñ–€€\[ûHŸXú⁄]WJŒãÀÿZX‹ôX][õ›Àò€€K H0≠»‘Ÿ\ùöXŸ\◊JŒãÀÿZX‹ôX][õ›Àò€€K‹Ÿ\ùöXŸ\Àö[
-H0≠»‘›\‹ùJŒãÀÿZX‹ôX][õ›Àò€€KŸò\Kö[
-H0≠»
-äåKNçãLÃMKMÕL
-äÇÇ∞™HåçàRH‹ôX][€ú»õ›»€Ÿùÿ\ôH]ô[‹Y[ùà[öY⁄»ô\Ÿ\ùôYàZX‹õ‹€Ÿù⁄[ô›‹À^ù\ôK[ô›\àõŸX›ò[Y\»\ôHòY[X\ö‹»ŸàZ\àô\‹X›]ôH›€ô\úÀàZ\àY[ù[€àŸ\»õ›[\HYôö[X][€à‹à[ô‹úŸ[Y[ùÇ
+  <a href="https://buy.stripe.com/6oUeVf77ZdRCfMEbka5kk04"><img alt="Optional donation" src="https://img.shields.io/badge/Optional%20Donation-$3%2B-635BFF?style=for-the-badge&logo=stripe&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <strong>A complete Microsoft Azure Artifact Signing workflow in one guided Windows GUI.</strong><br>
+  Prepare ¬∑ Connect ¬∑ Select ¬∑ Protect ¬∑ Sign ¬∑ Verify
+</p>
+
+---
+
+## What it does
+
+AI Creations Now Azure Signing Tool is a free portable Windows x64 application for developers and organizations that already have a Microsoft Azure Artifact Signing environment.
+
+It streamlines the repetitive parts of a legitimate signing workflow:
+
+- Checks supported 64-bit Windows and the required Microsoft components
+- Reuses valid installed components and prepares missing prerequisites
+- Opens Microsoft's normal browser authentication flow
+- Discovers the subscriptions, Artifact Signing accounts, certificate profiles, and endpoint available to the connected identity
+- Lets the user select a local Windows executable
+- Creates and verifies an unsigned recovery backup before signing
+- Applies Microsoft Azure Artifact Signing and a Microsoft timestamp
+- Verifies the resulting Windows Authenticode signature
+- Calculates pre-sign and post-sign SHA-256 values
+- Creates a detailed local three-page PDF verification report
+
+This application does **not** create an Azure subscription, complete Microsoft identity validation, issue a certificate, or assign Azure roles. The customer must already be authorized to use the selected Artifact Signing resources.
+
+## Guided workflow
+
+<p align="center">
+  <img src="https://aicreatenow.com/images/azuretool-privacy.jpg" alt="Privacy and installation agreement" width="48%">
+  <img src="https://aicreatenow.com/images/azuretool-readiness.jpg" alt="System readiness and prerequisite preparation" width="48%">
+</p>
+
+1. **Review the privacy and installation agreement.** Nothing is checked, installed, authenticated, selected, or signed until the local agreement is accepted.
+2. **Prepare the computer.** The application checks Windows, Azure CLI, .NET, Visual C++, Microsoft signing tools, Artifact Signing Client Tools, and the Azure CLI Artifact Signing extension.
+3. **Connect through Microsoft.** The first connection may use two browser checkpoints‚Äîone to identify the account/directory and another for tenant-specific authentication or MFA.
+4. **Choose existing Azure resources.** Select the subscription, Artifact Signing account, active certificate profile, and endpoint Microsoft reports for the connected identity.
+5. **Choose the executable.** Use the normal Windows file picker and review the backup and hash-protection plan.
+6. **Sign and verify.** The activity log follows backup verification, Artifact Signing, timestamping, Authenticode validation, and report creation.
+7. **Keep the PDF evidence.** The report records file details, hashes, publisher information, certificate data, timestamp, backup location, and recovery information.
+
+<p align="center">
+  <img src="https://aicreatenow.com/images/azuretool-resources.jpg" alt="Azure resource selection" width="62%">
+</p>
+
+## Microsoft account security
+
+Microsoft handles the password and MFA pages. The application never asks for or stores the Microsoft password or MFA code.
+
+By default, the application can keep its private Azure CLI authorization for the current Windows account so future launches normally return directly to the signing-resource page. The interface includes visible controls to:
+
+- **Sign out of this program** ‚Äî removes the application-owned cached authorization
+- **Use another account / directory** ‚Äî removes the cached authorization and remembered tenant information
+
+On shared, public, or temporary computers, sign out before leaving. The saved session is a convenience feature, not a substitute for protecting the Windows account.
+
+## Local privacy model
+
+- The selected executable is not uploaded to AI Creations Now
+- The unsigned backup, hashes, signed file, and PDF report remain on the local computer
+- The application contains no AI Creations Now telemetry or analytics account
+- Microsoft receives the authentication and signing-service communications required to provide Azure Artifact Signing
+- Microsoft prerequisite packages can remain installed after the portable application is removed
+
+See [PRIVACY.md](./PRIVACY.md) for the repository summary. The in-application agreement controls the actual first-run disclosure.
+
+## System requirements
+
+- Windows 10 or Windows 11 x64, or Windows Server 2016 or later with Desktop Experience
+- Local administrator access for prerequisite preparation
+- Internet access
+- Eligible paid Microsoft Azure subscription
+- Existing Microsoft Azure Artifact Signing account
+- Active certificate profile
+- Permission to sign with the chosen certificate profile
+
+## Download and verification
+
+**Release:** 1.0.21  
+**File:** `AI_Creations_Now_Azure_Signing_Tool_v1.0.21_x64.exe`  
+**Size:** 162,974,672 bytes  
+**SHA-256:**
+
+```text
+F34A2F9AE1D9589E83B865FEF12BD11085E591BA4626D6BF6325A7FA23372499
+```
+
+The release is a Microsoft Artifact Signing Authenticode-signed and timestamped Windows executable. Windows SmartScreen reputation may vary. Always compare the SHA-256 value and inspect the signature before running it.
+
+[Verification instructions](./VERIFY_DOWNLOAD.md) ¬∑ [Release notes](./RELEASE_NOTES.md) ¬∑ [Latest GitHub release](https://github.com/aicreatenowdom/Ai-Creations-Now-Microsoft-Azure-Artifact-Signing-Tool/releases/latest)
+
+## Source-code policy
+
+This repository does not publish the proprietary application source code. The public repository contains product documentation, screenshots, release notes, privacy/security information, and the official compiled release asset only.
+
+GitHub automatically presents ‚ÄúSource code‚Äù ZIP/TAR links for every release. Those auto-generated archives contain only this public documentation repository‚Äînot the proprietary Azure Signing Tool source.
+
+## Support
+
+See [SUPPORT.md](./SUPPORT.md). Security-sensitive matters must be reported privately under [SECURITY.md](./SECURITY.md).
+
+---
+
+**AI Creations Now Software Development**  
+[Company website](https://aicreatenow.com/) ¬∑ [Services](https://aicreatenow.com/services.html) ¬∑ [Support](https://aicreatenow.com/faq.html) ¬∑ **1-866-315-4750**
+
+¬© 2026 AI Creations Now Software Development. All rights reserved. Microsoft, Windows, Azure, and other product names are trademarks of their respective owners. Their mention does not imply affiliation or endorsement.
