@@ -1,0 +1,35 @@
+name: Retarget Azure release tag to dedicated repository
+
+on:
+  push:
+    paths:
+      - .github/workflows/retarget-release-tag.yml
+
+permissions:
+  contents: write
+
+jobs:
+  retarget:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the dedicated repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove this one-time workflow and retarget v1.0.21
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name "AI Creations Now Repository Automation"
+          git config user.email "dvs32@icloud.com"
+          git rm .github/workflows/retarget-release-tag.yml
+          git commit -m "Complete Azure Signing Tool repository separation"
+          git push origin HEAD:main
+          CLEAN_SHA="$(git rev-parse HEAD)"
+          gh api --method PATCH \
+            "repos/${GITHUB_REPOSITORY}/git/refs/tags/v1.0.21" \
+            -f sha="$CLEAN_SHA" \
+            -F force=true
